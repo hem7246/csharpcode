@@ -1,0 +1,7 @@
+F:\2019\interview question\csharp-rocks-master\csharp-rocks-master\csharp-rocks-master\bin\Debug\csharp-rocks-master.exe.config
+F:\2019\interview question\csharp-rocks-master\csharp-rocks-master\csharp-rocks-master\bin\Debug\csharp-rocks-master.exe
+F:\2019\interview question\csharp-rocks-master\csharp-rocks-master\csharp-rocks-master\bin\Debug\csharp-rocks-master.pdb
+F:\2019\interview question\csharp-rocks-master\csharp-rocks-master\csharp-rocks-master\obj\Debug\csharp-rocks-master.csprojAssemblyReference.cache
+F:\2019\interview question\csharp-rocks-master\csharp-rocks-master\csharp-rocks-master\obj\Debug\csharp-rocks-master.csproj.CoreCompileInputs.cache
+F:\2019\interview question\csharp-rocks-master\csharp-rocks-master\csharp-rocks-master\obj\Debug\csharp-rocks-master.exe
+F:\2019\interview question\csharp-rocks-master\csharp-rocks-master\csharp-rocks-master\obj\Debug\csharp-rocks-master.pdb
